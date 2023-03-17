@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1678859688,,"wq"
+|2,0,1679033148,,"wq"
+:Wq
+|2,0,1679033143,,"Wq"
+:@1
+|2,0,1679032968,,"@1"
 :wq!
 |2,0,1677747290,,"wq!"
 :WQ!
@@ -31,34 +35,152 @@
 # Registers:
 
 # File marks:
-'0  2  20  ~/reddy/text1
-|4,48,2,20,1678859688,"~/reddy/text1"
-'1  1  0  ~/reddy/tect1
-|4,49,1,0,1678859680,"~/reddy/tect1"
-'2  1  5  ~/reddy/text6
-|4,50,1,5,1678859609,"~/reddy/text6"
+'0  2  7  ~/reddy/allam/file1
+|4,48,2,7,1679033148,"~/reddy/allam/file1"
+'1  2  0  ~/reddy/allam/file2
+|4,49,2,0,1679032973,"~/reddy/allam/file2"
+'2  2  0  ~/reddy/allam/file1
+|4,50,2,0,1679032876,"~/reddy/allam/file1"
 '3  2  20  ~/reddy/text1
-|4,51,2,20,1678859567,"~/reddy/text1"
-'4  1  13  ~/reddy/text3
-|4,52,1,13,1678859186,"~/reddy/text3"
-'5  1  2  ~/reddy/file3
-|4,53,1,2,1678859177,"~/reddy/file3"
-'6  1  13  ~/reddy/text3
-|4,54,1,13,1678859160,"~/reddy/text3"
-'7  2  21  ~/reddy/text2
-|4,55,2,21,1678859099,"~/reddy/text2"
-'8  2  20  ~/reddy/text1
-|4,56,2,20,1678859072,"~/reddy/text1"
-'9  2  20  ~/reddy/text1
-|4,57,2,20,1678859072,"~/reddy/text1"
+|4,51,2,20,1678859688,"~/reddy/text1"
+'4  1  0  ~/reddy/tect1
+|4,52,1,0,1678859680,"~/reddy/tect1"
+'5  1  5  ~/reddy/text6
+|4,53,1,5,1678859609,"~/reddy/text6"
+'6  2  20  ~/reddy/text1
+|4,54,2,20,1678859567,"~/reddy/text1"
+'7  1  13  ~/reddy/text3
+|4,55,1,13,1678859186,"~/reddy/text3"
+'8  1  2  ~/reddy/file3
+|4,56,1,2,1678859177,"~/reddy/file3"
+'9  1  13  ~/reddy/text3
+|4,57,1,13,1678859160,"~/reddy/text3"
 
 # Jumplist (newest first):
+-'  2  7  ~/reddy/allam/file1
+|4,39,2,7,1679033148,"~/reddy/allam/file1"
+-'  2  0  ~/reddy/allam/file2
+|4,39,2,0,1679032973,"~/reddy/allam/file2"
+-'  2  0  ~/reddy/allam/file2
+|4,39,2,0,1679032973,"~/reddy/allam/file2"
+-'  1  0  ~/reddy/allam/file2
+|4,39,1,0,1679032963,"~/reddy/allam/file2"
+-'  1  0  ~/reddy/allam/file2
+|4,39,1,0,1679032963,"~/reddy/allam/file2"
+-'  2  0  ~/reddy/allam/file1
+|4,39,2,0,1679032876,"~/reddy/allam/file1"
+-'  2  0  ~/reddy/allam/file1
+|4,39,2,0,1679032876,"~/reddy/allam/file1"
+-'  1  0  ~/reddy/allam/file1
+|4,39,1,0,1679032869,"~/reddy/allam/file1"
+-'  1  0  ~/reddy/allam/file1
+|4,39,1,0,1679032869,"~/reddy/allam/file1"
+-'  1  0  ~/reddy/allam/file1
+|4,39,1,0,1679032869,"~/reddy/allam/file1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859688,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859688,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859688,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859688,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859688,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859688,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859688,"~/reddy/text1"
 -'  2  20  ~/reddy/text1
 |4,39,2,20,1678859688,"~/reddy/text1"
 -'  1  0  ~/reddy/tect1
 |4,39,1,0,1678859680,"~/reddy/tect1"
 -'  1  0  ~/reddy/tect1
 |4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  0  ~/reddy/tect1
+|4,39,1,0,1678859680,"~/reddy/tect1"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
+-'  1  5  ~/reddy/text6
+|4,39,1,5,1678859609,"~/reddy/text6"
 -'  1  5  ~/reddy/text6
 |4,39,1,5,1678859609,"~/reddy/text6"
 -'  1  5  ~/reddy/text6
@@ -75,186 +197,83 @@
 |4,39,2,20,1678859567,"~/reddy/text1"
 -'  2  20  ~/reddy/text1
 |4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
+-'  2  20  ~/reddy/text1
+|4,39,2,20,1678859567,"~/reddy/text1"
 -'  1  13  ~/reddy/text3
 |4,39,1,13,1678859186,"~/reddy/text3"
 -'  1  13  ~/reddy/text3
 |4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859186,"~/reddy/text3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  2  ~/reddy/file3
-|4,39,1,2,1678859177,"~/reddy/file3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  1  13  ~/reddy/text3
-|4,39,1,13,1678859160,"~/reddy/text3"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
--'  2  21  ~/reddy/text2
-|4,39,2,21,1678859099,"~/reddy/text2"
 
 # History of marks within files (newest to oldest):
+
+> ~/reddy/allam/file1
+	*	1679033146	0
+	"	2	7
+	^	2	8
+	.	2	8
+	+	1	6
+	+	2	8
+
+> ~/reddy/allam/file2
+	*	1679032972	0
+	"	2	0
+	^	2	0
+	.	1	6
+	+	1	6
 
 > ~/reddy/text1
 	*	1678859687	0
